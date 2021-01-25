@@ -1,0 +1,10 @@
+{
+  "name": "@oni/argus",
+  "version": "1.0.0",
+  "description": "ONI: Argus (@oni/argus) - An assistant to automation needs. Unattended distro installation builds, logging and event reporting, webh ooks with dispatchable actions. Argus is always watching. Always waiting. Plus, he's integrated with Slack and that's just super dope.",
+  "main": "src/index.js",
+  "repository": "https://github.com/DaneTheory/Argus.git",
+  "author": "Branden Dane (DaneTheory@gmail.com) <https://DaneTheory.com>",
+  "license": "MIT",
+  "private": true
+}

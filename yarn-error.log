@@ -1,0 +1,36 @@
+Arguments: 
+  /Users/bdane/n/bin/node /Users/bdane/.yarn/bin/yarn.js init
+
+PATH: 
+  /usr/local/opt/tcl-tk/bin:./node_modules/.bin:/Users/bdane/.yarn/bin:/Users/bdane/.config/yarn/global/node_modules/.bin:/usr/local/sbin:/usr/local/opt/tcl-tk/bin:./node_modules/.bin:/Users/bdane/.yarn/bin:/Users/bdane/.config/yarn/global/node_modules/.bin:/usr/local/sbin:/usr/local/opt/tcl-tk/bin:./node_modules/.bin:/Users/bdane/.yarn/bin:/Users/bdane/.config/yarn/global/node_modules/.bin:/usr/local/sbin:/Library/Frameworks/Python.framework/Versions/3.9/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Applications/VMware Fusion.app/Contents/Public:/usr/local/go/bin:/usr/local/MacGPG2/bin:/opt/X11/bin:/Library/Apple/usr/bin:/Applications/Daylight/Current/Utilities/Tools:/Users/bdane/n/bin:/Users/bdane/go/bin:/usr/local/opt/fzf/bin:/Users/bdane/go/bin:/Users/bdane/go/bin
+
+Yarn version: 
+  1.22.5
+
+Node version: 
+  15.5.1
+
+Platform: 
+  darwin x64
+
+Trace: 
+  Error: canceled
+      at Interface.<anonymous> (/Users/bdane/.yarn/lib/cli.js:137009:13)
+      at Interface.emit (node:events:376:20)
+      at Interface._ttyWrite (node:readline:909:16)
+      at ReadStream.onkeypress (node:readline:234:10)
+      at ReadStream.emit (node:events:376:20)
+      at emitKeys (node:internal/readline/utils:358:14)
+      at emitKeys.next (<anonymous>)
+      at ReadStream.onData (node:readline:1178:36)
+      at ReadStream.emit (node:events:376:20)
+      at addChunk (node:internal/streams/readable:311:12)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
